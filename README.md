@@ -1,2 +1,1 @@
-# Socorro-Deus
-Me Ajude! Eu não quero MORRER!!
+Disciplina de Estatistica.
